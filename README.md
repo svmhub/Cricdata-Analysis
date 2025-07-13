@@ -11,7 +11,7 @@ The project raodmap overview as follows,
   6.  Creating a Power BI Dashboard
 
 ## STEP 1: Download the Datasets
-  1.  Start with Cricdata_Analysis.ipynb file.
+  1.  Start with 1_4_Cricdata_Analysis.ipynb file.
   2.  The code would be downloaded the datasets automatically using selenium package in Python.
 
 ## STEP 2: Extract the downloaded zip files
@@ -28,11 +28,11 @@ The project raodmap overview as follows,
   3.  I used all kind of graphs
 
 ## STEP 5: Writing 20 SQL Queries
-  1. You just follow the file named as 'Queries for Cricdata Analysis'.
+  1. You just follow the file named as '5_Queries for Cricdata Analysis'.
   2. I have written around 20 queries for the validation purpose.
 
 ## STEP 6: Creating a Power BI Dashboard
-  1. The file, I have shared and named as 'Cricdata_Analysis_in_Power_BI.pbix'.
+  1. The file, I have shared and named as '6_Cricdata_Analysis_in_Power_BI.pbix'.
   2. Its made by simple way.
 
 Hense, the project has been completed successfully.
